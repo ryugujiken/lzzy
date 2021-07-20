@@ -1,6 +1,6 @@
  
 {
-    "name": "Izzybot",
+    "name": "GdriveMirrorBot",
     "description": "Telegram mirror bot with python",
     "logo": "https://telegra.ph/file/36b6641319eb38d055e16.jpg",
     "keywords": [
@@ -9,7 +9,7 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/Lucky056/Izzybot",
+    "repository": "https://github.com/Lucky056/python-aria-mirror-bot",
     "success_url": "https://t.me/justluckyy",
     "stack": "container",
     "env": {
